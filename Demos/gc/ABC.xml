@@ -1,0 +1,14 @@
+﻿<abc>
+		<nombreabc>Inducción al proceso de crédito</nombreabc>
+		<cliente>bolívar Banco</cliente>
+		<estandar>scorm</estandar>
+		<!--estandar posibles valores:
+    	 	cd, scorm, aicc 
+		-->
+		<pantalla ancho="924" alto="668"></pantalla>
+ 		<!--resolucion pantalla:
+            opciones
+		       700 x 500
+			   924 x 668
+		-->
+</abc>

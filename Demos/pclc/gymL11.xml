@@ -1,0 +1,150 @@
+﻿<examen>
+<caracteristicas>
+<ABC>ABC-PCLC</ABC>
+<titulo>Entendiendo la legitimación de capitales</titulo>
+<tipo>gimnasio</tipo>
+<numPreguntas>12</numPreguntas>
+</caracteristicas>
+<respuestaFinal>
+<limBueno>90%</limBueno>
+<limRegular>70%</limRegular>
+<feeBuena>Felicidades. Ha demostrado tener el nivel de conocimientos adecuado sobre los conceptos básicos necesarios para entender el proceso de legitimación de capitales. Mantenga este mismo nivel en las próximas lecciones. </feeBuena>
+<feeRegular>El nivel de conocimientos demostrado sobre los conceptos básicos necesarios para entender el proceso de legitimación de capitales es aceptable. Mantenga su esfuerzo para alcanzar un mejor nivel.</feeRegular>
+<feeMala>Su desempeño no llega al  límite mínimo establecido. Por favor, estudie con mas detenimiento los contenidos asociados a la lección entendiendo la legitimación de capitales y vuelva a demostrar sus conocimientos.</feeMala>
+</respuestaFinal>
+<preguntas>
+<item>
+<enunciado>Legitimación de capitales se denomina al proceso mediante el cual, una persona o  grupo criminal, intenta otorgar apariencia legítima a capitales provenientes de actividades ilícitas.</enunciado>
+<opcion correcta="1">Verdadero.</opcion>
+<opcion correcta="0">Falso.</opcion>
+<positivo>Si, esta definición corresponde al proceso de legitimación de capitales.</positivo>
+<negativo>Efectivamente, esta es la definición del proceso de legitimación de capitales.</negativo>
+</item>
+<item>
+<enunciado>La intención final del proceso de legitimación de capitales es obtener dinero "legal", "limpio" o "lícito".</enunciado>
+<opcion correcta="0">Verdadero.</opcion>
+<opcion correcta="1">Falso.</opcion>
+<positivo>Realmente, no se puede hablar de dinero limpio, aún cuando esta es la intención real, sólo se podrá dar apariencia de legalidad. Sólo será una apariencia, el legitimador jamás podrá convertir lo ilícito en lícito.</positivo>
+<negativo>Aún cuando la intención real es dar apariencia de legalidad. Sólo será una apariencia, el legitimador jamás podrá convertir lo ilícito en lícito.</negativo>
+</item>
+<item>
+<enunciado>Identifique entre las siguientes opciones aquella que NO caracteriza al delito de legitimación de capitales.</enunciado>
+<opcion correcta="0">Es típico de la delincuencia organizada.</opcion>
+<opcion correcta="0">Se utilizan variedad de técnicas.</opcion>
+<opcion correcta="1">Tiene carácter nacional.</opcion>
+<opcion correcta="0">Es considerado como un delito grave.</opcion>
+<positivo>La legitimación de capitales es un delito grave que tiene carácter internacional. Es un fenómeno delictivo que aprovecha las ventajas del sistema económico globalizado para hacer circular y esconder los capitales ilícitos. </positivo>
+<negativo>La legitimación de capitales es un delito grave que tiene carácter internacional. Es un fenómeno delictivo que aprovecha las ventajas del sistema económico globalizado para hacer circular y esconder los capitales ilícitos. </negativo>
+</item>
+<item>
+<enunciado>Identifique la similitud que tiene legitimación de capitales con el terrorismo:</enunciado>
+<opcion correcta="0">Es una guerra contra un enemigo sin rostro.</opcion>
+<opcion correcta="0">Es típico de la delincuencia organizada.</opcion>
+<opcion correcta="1">Todas las anteriores.</opcion>
+<positivo>Efectivamente, ambos tienen el objetivo de evitar el establecimiento de la relación entre sus resultados y aquellos que son los dueños de esos recursos, impidiendo el poder establecer responsabilidades. </positivo>
+<negativo>Realmente son ambos los que tienen el objetivo de no establecer la relación entre sus resultados y aquellos que son los dueños de esos recursos, impidiendo el poder establecer responsabilidades. </negativo>
+</item>
+<item>
+<enunciado>Identifique entre las siguientes opciones aquella que es una consecuencia del delito de legitimación de capitales.</enunciado>
+<opcion correcta="0">Criminaliza los sistemas involucrados.</opcion>
+<opcion correcta="0">Genera graves distorsiones en la economía.</opcion>
+<opcion correcta="0">Afecta negativamente la rama inmobiliaria.</opcion>
+<opcion correcta="1">Todas las anteriores.</opcion>
+<positivo>Como hemos visto, las consecuencias del delito de legitimación de capitales afecta tanto a los sistemas Financiero, Asegurador y al Mercado de Capitales. Este delito genera graves distorsiones a la economía y corrompe distintos sectores de la sociedad.</positivo>
+<negativo>La verdad es que, las consecuencias del delito de legitimación de capitales afecta principalmente a los sistemas Financiero, Asegurador y al Mercado de Capitales. Este delito genera graves distorsiones a la economía y corrompe distintos sectores de la sociedad.</negativo>
+</item>
+<item>
+<enunciado>La legitimación de capitales es un acto único e instantáneo de conversión de dinero en efectivo a algún instrumento financiero o compra de bien mueble o inmueble.</enunciado>
+<opcion correcta="1">Verdadero.</opcion>
+<opcion correcta="0">Falso.</opcion>
+<positivo>Ciertamente, esta visión es limitada ya que la legitimación de capitales es un proceso complejo que admite fases, en las cuales puede que no esté presente dinero en efectivo.</positivo>
+<negativo>No podemos verlo de esta manera, esta visión es limitada ya que la legitimación de capitales es un proceso complejo que admite fases, en las cuales puede que no esté presente dinero en efectivo.</negativo>
+</item>
+<item>
+<enunciado>Las fases del proceso de legitimación de capitales son:</enunciado>
+<opcion correcta="1">Aceptación, procesamiento e integración.</opcion>
+<opcion correcta="0">Producción, distribución y consumo.</opcion>
+<opcion correcta="0">Aceptación, lavado y legitimación.</opcion>
+<opcion correcta="0">Ninguna de las anteriores.</opcion>
+<positivo>Efectivamente, además es importante que la legitimación de capitales sea prevenida en todas sus fases: Aceptación, procesamiento e integración.</positivo>
+<negativo>Recuerde que, la legitimación de capitales debe ser prevenida en todas sus fases: Aceptación, procesamiento e integración.</negativo>
+</item>
+<item>
+<enunciado>La etapa del proceso de legitimación de capitales que consiste en la colocación de importantes sumas de dinero en efectivo, se le conoce como:</enunciado>
+<opcion correcta="1">Aceptación.</opcion>
+<opcion correcta="0">Procesamiento.</opcion>
+<opcion correcta="0">Integración.</opcion>
+<positivo>Efectivamente se trata de la fase de aceptación. Se estima que alrededor del 80% de los fondos procedentes del tráfico ilícito de drogas en EE.UU se depositan anualmente en cuentas bancarias mediante formas de colocación.  </positivo>
+<negativo>Recuerde, es la fase de aceptación. Se estima que alrededor del 80% de los fondos procedentes del tráfico ilícito de drogas en EE.UU se depositan anualmente en cuentas bancarias mediante formas de colocación.  </negativo>
+</item>
+<item>
+<enunciado>La fase que consiste en ocultar el origen de los productos ilícitos mediante la realización de numerosas transacciones financieras, se le conoce como:</enunciado>
+<opcion correcta="0">Aceptación.</opcion>
+<opcion correcta="1">Procesamiento.</opcion>
+<opcion correcta="0">Integración.</opcion>
+<positivo>Efectivamente, es la fase de procesamiento. Cuando tiene éxito la fase de aceptación, los legitimadores tratan de hacer más difícil la detección de los bienes, realizando múltiples transacciones que se van amontonando unas tras otras, dificultando la identificación de su origen.</positivo>
+<negativo>Recuerde la fase de procesamiento. Cuando tiene éxito la fase de aceptación, los legitimadores tratan de hacer más difícil la detección de los bienes, realizando múltiples transacciones que se van amontonando unas tras otras, dificultando la identificación de su origen.</negativo>
+</item>
+<item>
+<enunciado>La etapa en la que se introducen los productos blanqueados en la economía de manera que aparezcan como inversiones normales, créditos o reinversiones de ahorros, se conoce como:</enunciado>
+<opcion correcta="0">Aceptación.</opcion>
+<opcion correcta="0">Procesamiento.</opcion>
+<opcion correcta="1">Integración.</opcion>
+<positivo>Cierto, es la fase de integración. La detección e identificación de los fondos legitimados en la fase de integración es extremadamente difícil y sólo es posible mediante la infiltración clandestina.</positivo>
+<negativo>Es la fase de integración. La detección e identificación de los fondos legitimados en la fase de integración es extremadamente difícil y sólo es posible mediante la infiltración clandestina.</negativo>
+</item>
+<item>
+<enunciado>Las instituciones financieras son blanco para ser utilizadas en la legitimación de capitales.</enunciado>
+<opcion correcta="1">Verdadero.</opcion>
+<opcion correcta="0">Falso</opcion>
+<positivo>Efectivamente los bancos constituyen un instrumento que siempre estará presente en un esquema de legitimación. Sin embargo, muchos otros mecanismos distintos son utilizados en la legitimación de capitales.</positivo>
+<negativo>Recuerde que, los bancos constituyen un instrumento que siempre estará presente en un esquema de legitimación. Sin embargo, muchos otros mecanismos distintos son utilizados en la legitimación de capitales.</negativo>
+</item>
+<item>
+<enunciado>Las compañías de seguro son blanco para ser utilizadas en la legitimación de capitales.</enunciado>
+<opcion correcta="1">Verdadero.</opcion>
+<opcion correcta="0">Falso</opcion>
+<positivo>Ciertamente, también las compañías de seguros constituyen una industria con importantes concentraciones de capital que maneja grandes volúmenes de transacciones en el desarrollo normal de sus negocios, por lo que son atractivas para ser aprovechadas por los legitimadores.</positivo>
+<negativo>No debe olvidar que, las compañías de seguros también constituyen una industria con importantes concentraciones de capital que maneja grandes volúmenes de transacciones en el desarrollo normal de sus negocios, por lo que son atractivas para ser aprovechadas por los legitimadores.</negativo>
+</item>
+<item>
+<enunciado>Las bolsas de valores son blanco para ser utilizadas en la legitimación de capitales.</enunciado>
+<opcion correcta="1">Verdadero.</opcion>
+<opcion correcta="0">Falso</opcion>
+<positivo>Por supuesto, la bolsa de valores es un vehículo muy atractivo para la legitimación de capitales.  Bienes "sucios" pueden ser convertidos en instrumentos financieros alternativos, como acciones y bonos.</positivo>
+<negativo>No olvide que, la bolsa de valores es un vehículo muy atractivo para la legitimación de capitales.  Bienes "sucios" pueden ser convertidos en instrumentos financieros alternativos, como acciones y bonos.</negativo>
+</item>
+<item>
+<enunciado>La Legitimación de Capitales no es un acto único e instantáneo de simple conversión de dinero.</enunciado>
+<opcion correcta="1">Verdadero.</opcion>
+<opcion correcta="0">Falso</opcion>
+<positivo>Ciertamente, la legitimación de capitales es un proceso que admite fases sumamente complejas, a fin de evitar su seguimiento y mediante el cual se busca otorgar apariencia de licitud a capitales ilícitos, por lo tanto no puede concebirse como un acto único e instantáneo de simple conversión de dinero en efectivo.</positivo>
+<negativo>Recuerde que la legitimación de capitales es un proceso que admite fases sumamente complejas, que buscan evitar su seguimiento y otorgar apariencia de licitud a capitales ilícitos, por lo tanto no puede concebirse como un acto único e instantáneo de simple conversión de dinero en efectivo.</negativo>
+</item>
+<item>
+<enunciado>¿A quién afecta el Delito de  Legitimación de Capitales?</enunciado>
+<opcion correcta="0">A la Institución. </opcion>
+<opcion correcta="0">Al bien jurídico de carácter económico. </opcion>
+<opcion correcta="0">A la comunidad en general.  </opcion>
+<opcion correcta="1">Todas las anteriores.  </opcion>
+<positivo>El delito de legitimación de capitales al socavar las economías lícitas, termina por invadir, contaminar y corromper las estructuras de la Administración Pública, las actividades comerciales y financieras lícitas principalmente las del Sistema Financiero, Asegurador y al Mercado de Capitales, afectando consecuentemente la administración de justicia, la salud pública, la estabilidad del sistema democrático y por tanto a la sociedad en todos sus niveles.</positivo>
+<negativo>Son muchos los afectados, el delito de legitimación de capitales al socavar las economías lícitas, termina por invadir, contaminar y corromper las estructuras de la Administración Pública, las actividades comerciales y financieras lícitas principalmente las del Sistema Financiero, Asegurador y al Mercado de Capitales, afectando consecuentemente la administración de justicia, la salud pública, la estabilidad del sistema democrático y por tanto a la sociedad en todos sus niveles.</negativo>
+</item>
+<item>
+<enunciado>Las empresas caparazón y las fachadas, se dedican a las actividades lícitas del sistema económico</enunciado>
+<opcion correcta="0">Verdadero.</opcion>
+<opcion correcta="1">Falso</opcion>
+<positivo>Realmente, la creación de empresas caparazón es uno de los tantos mecanismos utilizados en la legitimación de capitales, ya que este tipo de empresas, generalmente sólo existen en el papel, sin participación alguna en el comercio real.</positivo>
+<negativo>Esto no es posible, la creación de empresas caparazón es uno de los tantos mecanismos utilizados en la legitimación de capitales, ya que este tipo de empresas, generalmente sólo existen en el papel, sin participación alguna en el comercio real.</negativo>
+</item>
+<item>
+<enunciado>Identifique el término que tiene el mismo significado de “legitimación de capitales”.</enunciado>
+<opcion correcta="0">Lavado de dinero. </opcion>
+<opcion correcta="0">Blanqueo de capitales.</opcion>
+<opcion correcta="0">Money laundering.</opcion>
+<opcion correcta="1">Todas las anteriores.</opcion>
+<positivo>Efectivamente, todos estos términos comparten el mismo significado, identifican el mismo fenómeno delictivo. Jurídicamente en Venezuela el término apropiado es el de “legitimación de capitales”.</positivo>
+<negativo>Realmente, todos estos términos comparten el mismo significado, identifican el mismo fenómeno delictivo. Jurídicamente en Venezuela el término apropiado es el de “legitimación de capitales”.</negativo>
+</item>
+</preguntas>
+</examen>

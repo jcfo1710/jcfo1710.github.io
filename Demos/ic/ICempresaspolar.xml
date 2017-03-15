@@ -1,0 +1,97 @@
+﻿     <OA>
+     <abc>
+     <nombreLeccion>Empresas Polar</nombreLeccion> 
+     
+     
+     <nombreOA>Empresas Polar</nombreOA>
+ <menusup>menuABC</menusup>
+     </abc>
+     <bloques>
+     
+     <bloque>
+     <nombreBloque>Introducción</nombreBloque>
+     
+     
+     </bloque>
+     <bloque>
+     <nombreBloque>¿Cómo nos definimos?</nombreBloque>
+     
+     <Locutor>La actividad de Empresas Polar está enfocada en los sectores de alimentos y bebidas.</Locutor>
+     <Locutor>Con 30 plantas industriales y más de 150 mil puntos de ventas atendidos, nuestra organización empresarial cuenta con la infraestructura de producción, comercialización y servicios más importante del sector privado venezolano.</Locutor>
+     <Locutor>Nuestro portafolio de productos, de prestigio nacional e internacional, está agrupado en tres grandes negocios:</Locutor>
+     <Locutor>Cervecería Polar, Alimentos Polar y Pepsi-Cola Venezuela,respondiendo constantemente a las exigencias del consumidor venezolano.</Locutor>
+   
+     
+     </bloque>
+     <bloque>
+     <nombreBloque>¿Dónde estamos?</nombreBloque>
+     
+     <Locutor>Empresas Polar está presente en toda la geografía venezolana.
+Cuenta con diversos centros de producción y distribución, constituyéndose en la más amplia y efectiva red de comercialización existente en Venezuela.</Locutor>
+     <Locutor>Empresas Polar también está presente en Colombia desde 1996, a través de Alimentos Polar Colombia.</Locutor>
+     <Locutor>Además, algunos de los productos líderes se comercializan en otros países de América Latina, Norteamérica, el Caribe y Europa.</Locutor>
+    
+     </bloque>
+     <bloque>
+     <nombreBloque>Estrategia 2010</nombreBloque>
+     
+     <Locutor>En Empresas Polar hemos formulado una estrategia de negocio que nos permitirá lograr el éxito deseado proyectado al 2010, mediante la identificación y captura de sinergias de las mejores prácticas logradas, con el fin de maximizar el valor de nuestra compañía en negocios totalmente enfocados en ámbito y diferenciación, potenciando una imagen de marca corporativa fuertemente asociada con los valores de la organización.</Locutor>
+     <Locutor>Nuestra estrategia se traduce entonces en un incremento de la participación en el mercado, la ampliación del portafolio de productos, rentabilidad en nuestros negocios, mayores oportunidades laborales y beneficios para la comunidad.</Locutor>
+     
+    
+     <Instruccion estado= "abierto">Haz click sobre las fotos.</Instruccion>
+     
+     
+     </bloque>
+     <bloque>
+     <nombreBloque>Estructura organizativa</nombreBloque>
+     
+     <Locutor>En Empresas Polar estamos conscientes de que nuestro éxito se debe a la dedicación y compromiso de nuestros líderes, profesionales que con su entusiasmo, creatividad, motivación y trabajo en equipo son ejemplo para nuestra gente.</Locutor>
+     <Locutor>Nuestro equipo directivo, orientado a maximizar la creación de valor está alineado con la estrategia al 2010 mediante objetivos e indicadores de gestión como una fórmula para generar valor a través de la toma de decisiones.</Locutor>
+     
+     
+     <Instruccion estado="abierto"> Coloca el cursor sobre las áreas del organigrama.</Instruccion>
+     </bloque>
+     <bloque>
+     <nombreBloque>Nuestros negocios</nombreBloque>
+     
+     <Locutor>Empresas Polar es una de las más importantes fuerzas que dinamiza la economía nacional, contribuyendo con cerca de un 3% al Producto Interno Bruto, generando además cerca de 18.000 puestos de trabajos directos y más de 150.000 empleos indirectos.</Locutor>
+     <Locutor>Esto es posible gracias a nuestra estrategia de negocios basada en la ventaja que se tiene en el mercado sobre la competencia al producir y ofrecer productos a costos bajos y de gran calidad, garantizando la rentabilidad, un amplio portafolio de productos y la preferencia de nuestros clientes.</Locutor>
+     
+     <Instruccion estado="abierto">Haz click sobre cada una de las imágenes.</Instruccion>
+     
+     
+     </bloque>
+     <bloque>
+     <nombreBloque>Compromiso social</nombreBloque>
+     
+     <Locutor>Desde sus inicios, en 1941, Empresas Polar ha asumido un genuino compromiso con la sociedad, generando empleo y bienestar integral para sus trabajadores, sus familias y la comunidad como parte vital de su filosofía empresarial.</Locutor>
+     <Locutor>De la necesidad de contar con una institución especializada que atendiera el campo con un alto nivel de profesionalismo nace una asociación civil que posteriormente se convertiría en la actual Fundación Empresas Polar cuya orientación fundamental es desarrollar y apoyar programas en las áreas de Salud, Educación y Desarrollo Comunitario.</Locutor>
+     
+     
+     <Instruccion estado="abierto">Haz click sobre los botones.</Instruccion>
+     
+     
+     
+     </bloque>
+     <bloque>
+     <nombreBloque>Actividad: Definiendo a Empresas Polar</nombreBloque>
+     
+     <Locutor>Trabajar en Empresas Polar representa la posibilidad de ser parte de uno de los motores más importantes de nuestra economía, de participar y contribuir activamente en la construcción de un mejor país, más próspero, con mejores oportunidades de trabajo y de crecimiento a largo plazo.
+Resuelve la siguiente sopa de letras para recordar las palabras más importantes que definen y caracterizan a Empresas Polar.</Locutor>
+     
+     <Instruccion estado="abierto">Encuentra las palabras haciendo clic en la letra inicial y final.</Instruccion>
+     
+     
+     </bloque>
+     <bloque>
+     <nombreBloque>Recuerda</nombreBloque>
+     
+     <Locutor>En Empresas Polar lo más importante es nuestro crecimiento, el de nuestra gente y el compromiso social que hemos asumido con nuestras comunidades. 
+Esto lo logramos a través del desarrollo de nuestros negocios cuya estrategia se basa en el liderazgo del mercado, con productos rentables, diferenciados y pensados para satisfacer las necesidades de nuestros clientes.</Locutor>
+     
+     
+     </bloque>
+     </bloques>
+     </OA>
+

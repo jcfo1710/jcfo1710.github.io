@@ -1,0 +1,43 @@
+﻿<OA>
+  <abc>
+	<nombreleccion>Píldoras de seguridad</nombreleccion>
+	<nombreOA>Seguridad residencial</nombreOA>
+	<menusup></menusup>
+  </abc>
+<bloques>
+<bloque>
+	<nombre>Introducción</nombre>
+	<narracion></narracion>
+	<texto></texto>
+	</bloque>
+<bloque>
+	<nombre>Definición</nombre>
+	<narracion></narracion>
+	<texto></texto>
+	</bloque>
+<bloque>
+	<nombre>Situaciones de exposición</nombre>
+	<narracion></narracion>
+	<texto></texto>
+	</bloque>
+<bloque>
+	<nombre>Recomendaciones de seguridad</nombre>
+	<narraccion></narraccion>
+	<texto></texto>
+	
+</bloque>
+<bloque>
+	<nombre>Actividad</nombre>
+	<narraccion></narraccion>
+	<texto></texto>
+	<Instruccion estado="abierto">Haga clic en la respuesta que considere correcta.</Instruccion>
+</bloque>
+<bloque>
+	<nombre>Evita peligros en tu residencia</nombre>
+	<narraccion></narraccion>
+	<texto></texto>
+	
+</bloque>
+
+</bloques>
+</OA>

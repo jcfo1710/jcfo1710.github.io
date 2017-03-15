@@ -1,0 +1,14 @@
+﻿<abc>
+		<nombreabc>Seguridad Básica - PCP</nombreabc>
+		<cliente>PDVSA</cliente>
+		<estandar>cd</estandar>
+		<!--estandar posibles valores:
+    	 	cd, scorm, aicc 
+		-->
+		<pantalla ancho="924" alto="668"></pantalla>
+ 		<!--resolucion pantalla:
+            opciones
+		       700 x 500
+			   924 x 668
+		-->
+</abc>
