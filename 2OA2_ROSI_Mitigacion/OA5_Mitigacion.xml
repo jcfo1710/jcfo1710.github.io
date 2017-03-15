@@ -1,0 +1,50 @@
+﻿     <OA>
+     <abc>
+     <nombreLeccion>Mitigación y Prevención</nombreLeccion> 
+     <nombreOA>Mitigación y Prevención</nombreOA>
+     </abc>
+
+     <bloques>
+     <bloque>
+     <nombreBloque>Introducción</nombreBloque>
+     </bloque>
+     
+     <bloque>
+     <nombreBloque>Respuesta al riesgo</nombreBloque>
+     </bloque>
+     
+     <bloque>
+     <nombreBloque>¿Cuál es la medida más apropiada ante un riesgo?</nombreBloque>
+     </bloque>
+
+     <bloque>
+     <nombreBloque>¿Cómo se mitigan los riesgos en Mercantil?</nombreBloque>
+     </bloque>
+
+     <bloque>
+     <nombreBloque>Plan de Continuidad de Negocio (PCN)</nombreBloque>
+     </bloque>
+
+     <bloque>
+     <nombreBloque>Programas de seguros</nombreBloque>
+     </bloque>
+
+     <bloque>
+     <nombreBloque>Planes de acción</nombreBloque>
+     </bloque>
+     
+     <bloque>
+     <nombreBloque>Acciones para prevenir</nombreBloque>
+     </bloque>
+
+     <bloque>
+     <nombreBloque>Actuando de manera preventiva</nombreBloque>
+     </bloque>
+
+     <bloque>
+     <nombreBloque>La idea clave: Mitigar los riesgos</nombreBloque>
+     </bloque>
+     
+     </bloques>
+     
+     </OA>

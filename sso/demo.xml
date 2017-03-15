@@ -1,0 +1,40 @@
+﻿     <OA>
+     <abc>
+     <nombreLeccion>Introducción a LOPCYMAT</nombreLeccion> 
+     
+     
+     <nombreOA>Introducción a LOPCYMAT </nombreOA>
+     
+     </abc>
+     
+     <bloques>
+     <bloque>
+     <nombreBloque>Está preparado para...</nombreBloque>
+     </bloque>
+     
+     <bloque>
+     <nombreBloque>¿LOPCYMAT?</nombreBloque>
+     <Locutor>¿Por qué no se logra cubrir los requerimientos del cliente?  </Locutor>
+     <Locutor>¿Quién asume la responsabilidad ante las fallas?   </Locutor>
+     <Locutor>¿Por qué se siguen cometiendo los mismos errores?</Locutor>
+     <Locutor>¿Por qué sólo se cumplen funciones y se desconoce el proceso? </Locutor>
+     <Locutor>AIT en la búsqueda de brindar una solución integral a los diferentes cuestionamientos que se presentan en la dinámica de la organización, y lograr el mejoramiento progresivo y sustentado en todos sus procesos ha decidido implementar la Gerencia por procesos. </Locutor>
+     </bloque>
+     
+     <bloque>
+     <nombreBloque>¿A quiénes son aplicables las disposiciones de la LOPCYMAT? </nombreBloque>
+     <Locutor>AIT como una organización gerenciada por procesos busca ofrecer soluciones que satisfagan los requerimientos del cliente y garanticen la calidad del servicio, a través de procesos que se van mejorando de forma progresiva y sustentada, gracias al talento humano que trabaja en equipo, contribuyendo en el logro de los objetivos de la organización, por medio del seguimiento continuo, la toma de decisiones, resolución de problemas y el aprendizaje permanente.  </Locutor>
+     </bloque>
+     
+     <bloque>
+     <nombreBloque> Cuál es el objetivo...</nombreBloque>
+     <Locutor>Para romper con la verticalidad de la organización funcional, lograr la rapidez en las operaciones y tener control sobre el conjunto de las actividades, la Gerencia por procesos está orientada por ejes que promueven el cambio, y se conocen como: Mejoramiento progresivo y sustentado, trabajo en equipo, toma de decisiones, resolución de problemas y aprendizaje permanente. </Locutor>
+     <Locutor>El mejoramiento progresivo y sustentado consiste en hacer seguimiento continuo de los procesos vitales, para detectar posibles fallas y sus causas, controlarlas y solventarlas para ir mejorando el proceso, alineando las estrategias y acciones de la organización con el servicio que requieren los clientes.   </Locutor>
+     <Locutor>El trabajo en equipo constituye una práctica entre todos los departamentos de la organización, donde todos conocen el proceso, sus actividades, responsabilidades, y como alinear los esfuerzos para contribuir en el logro de los objetivos.   </Locutor>
+     <Locutor>La toma de decisiones y la resolución de problemas se realiza de manera fluida porque el conocimiento está descentralizado, la responsabilidad y la autoridad es compartida al construir soluciones integrales que atienden siempre la causa raíz del problema, permitiendo el mejoramiento progresivo y sustentado de los procesos.   </Locutor>
+     <Locutor>El aprendizaje permanente es posible, porque todo proceso está documentado y es de conocimiento público, todas las personas conocen sus actividades y la relación con la globalidad de la organización. Al conocer las causas de las fallas se diseñan cambios y acciones preventivas que son divulgadas. </Locutor>
+     </bloque>
+     
+     
+     </bloques>
+     </OA>

@@ -1,0 +1,26 @@
+﻿     <OA>
+     <abc>
+     <nombreLeccion>Acortando distancias</nombreLeccion> 
+     <nombreOA>Acortando distancias</nombreOA>
+     </abc>
+
+     <bloques>
+     <bloque>
+     <nombreBloque>Iniciando el recorrido</nombreBloque>
+     </bloque>
+     
+     <bloque>
+     <nombreBloque>Ciclo de ventas de productos y servicios</nombreBloque>
+     </bloque>
+     
+     <bloque>
+     <nombreBloque>Vinculando productos y servicios a las necesidades</nombreBloque>
+     </bloque>
+
+     <bloque>
+     <nombreBloque>Ten presente</nombreBloque>
+     </bloque>
+     
+     </bloques>
+     
+     </OA>

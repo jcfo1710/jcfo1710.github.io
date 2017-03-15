@@ -1,0 +1,26 @@
+     <OA>
+     <abc>
+     <nombreLeccion>Vinculando la Tarjeta de Débito Bancaribe</nombreLeccion> 
+     <nombreOA>Vinculando la Tarjeta de Débito Bancaribe</nombreOA>
+     </abc>
+
+     <bloques>
+     <bloque>
+     <nombreBloque>Iniciando el recorrido</nombreBloque>
+     </bloque>
+     
+     <bloque>
+     <nombreBloque>Ciclo de venta de productos y servicios</nombreBloque>
+     </bloque>
+     
+     <bloque>
+     <nombreBloque>Atributos de la Tarjeta de Débito</nombreBloque>
+     </bloque>
+
+     <bloque>
+     <nombreBloque>Ten presente...</nombreBloque>
+     </bloque>
+     
+     </bloques>
+     
+     </OA>

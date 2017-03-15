@@ -1,0 +1,42 @@
+     <OA>
+     <abc>
+     <nombreLeccion>Actividades de la Auditoria</nombreLeccion> 
+     <nombreOA>Actividades de la Auditoria</nombreOA>
+     </abc>
+
+     <bloques>
+     <bloque>
+     <nombreBloque>Alta velocidad</nombreBloque>
+     </bloque>
+     
+     <bloque>
+     <nombreBloque>La estrategia del equipo</nombreBloque>
+     </bloque>
+     
+     <bloque>
+     <nombreBloque>Ejecución en la pista</nombreBloque>
+     </bloque>
+
+     <bloque>
+     <nombreBloque>El Informe de Auditoria</nombreBloque>
+     </bloque>
+
+     <bloque>
+     <nombreBloque>Plan de acción</nombreBloque>
+     </bloque>
+
+     <bloque>
+     <nombreBloque>Papeles de trabajo</nombreBloque>
+     </bloque>
+
+     <bloque>
+     <nombreBloque>Sistema de Información SIISO</nombreBloque>
+     </bloque>
+
+     <bloque>
+     <nombreBloque>–Recuento de la carrera</nombreBloque>
+     </bloque>
+     
+     </bloques>
+     
+     </OA>

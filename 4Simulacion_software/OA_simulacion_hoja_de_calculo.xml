@@ -1,0 +1,39 @@
+﻿     <OA>
+     <abc>
+     <nombreLeccion>Entre números, cálculos y promedios</nombreLeccion> 
+     <nombreOA>Entre números, cálculos y promedios</nombreOA>
+     </abc>
+
+     <bloques>
+
+     <bloque>
+     <nombreBloque>Simulando y calculando</nombreBloque>
+     </bloque>
+
+     <bloque>
+     <nombreBloque>Construyendo una hoja de cálculos</nombreBloque>
+     </bloque>
+  
+     <bloque>
+     <nombreBloque>Ingresando filas</nombreBloque>
+     </bloque>
+
+     <bloque>
+     <nombreBloque>Editando y dando formato</nombreBloque>
+     </bloque>
+
+        <bloque>
+     <nombreBloque>Utilizando fórmulas</nombreBloque>
+     </bloque>
+ 
+<bloque>
+     <nombreBloque>Realizando gráficos</nombreBloque>
+     </bloque>
+   
+<bloque>
+     <nombreBloque>Guardando el documento</nombreBloque>
+     </bloque>  
+  
+   </bloques>
+     
+     </OA>
