@@ -1,0 +1,42 @@
+﻿     <OA>
+     <abc>
+     <nombreLeccion>Principios de Finanzas</nombreLeccion> 
+     <nombreOA>Principios de Finanzas</nombreOA>
+     </abc>
+
+     <bloques>
+     <bloque>
+     <nombreBloque>Introducción</nombreBloque>
+     </bloque>
+     
+     <bloque>
+     <nombreBloque>Conociendo la Empresa y sus Características</nombreBloque>
+     </bloque>
+     
+     <bloque>
+     <nombreBloque>Abordando el Proceso del Negocio</nombreBloque>
+     </bloque>
+
+     <bloque>
+     <nombreBloque>Conociendo los Estados Financieros: Balance General</nombreBloque>
+     </bloque>
+     
+     <bloque>
+     <nombreBloque>Conociendo los Estados Financieros: Balance de Resultados y Estado de Flujo de Efectivo</nombreBloque>
+     </bloque>
+     
+     <bloque>
+     <nombreBloque>Manejando el Análisis Financiero</nombreBloque>
+     </bloque>
+
+     <bloque>
+     <nombreBloque>Repasando los Principios de Finanzas</nombreBloque>
+     </bloque>
+     
+     <bloque>
+     <nombreBloque>En conclusión</nombreBloque>
+     </bloque>
+     
+     </bloques>
+     
+     </OA>

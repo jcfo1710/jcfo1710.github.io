@@ -1,0 +1,91 @@
+<html>
+<head>
+<title>Aprentec</title>
+<meta http-equiv="Pragma" content="no-cache; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+
+
+var strQueryString //- QueryString
+
+function ParseQueryString(){
+	if (location.href.indexOf('?') != -1){
+		strQueryString = unescape(location.href.split('?')[1])
+	}else{
+		strQueryString = ''
+	}
+}
+
+function QueryString(fld){
+	var arrQueryString
+	if (strQueryString != ''){
+		if (strQueryString.indexOf('&') != -1){
+			arrQueryString = strQueryString.split('&')
+		}else{
+			arrQueryString = [strQueryString]
+		}
+		
+		for (i=0;i<arrQueryString.length;i++){
+			if (arrQueryString[i].indexOf('=') != -1){
+				if (arrQueryString[i].split('=')[0] == fld)
+					return arrQueryString[i].split('=')[1]
+			}
+		}
+		
+		return ''
+		
+	}else{
+		return ''
+	}
+}
+
+ ParseQueryString()
+ 
+         var extrac = "";
+         var nombre = "";
+         url = document.URL;
+         var i = url.indexOf("_ini");
+		var j=0;
+         do {
+             nombre = nombre + url.charAt(j);//Estes es el nombre de los componentes del OA*/
+             j++;
+			// alert(nombre);
+         }while((j != i));
+
+        theURL= nombre+".html"
+        //url = theURL+"?"+strQueryString;
+       url = theURL + document.location.search;
+
+// PARAMETROS QUE TOMARA EL IE Y EL FIREFOX Y CUALQUIER OTRO NAVEGADOR
+parametros = 'fullscreen,scrollbars=no,resizable=yes,align=middle';
+
+// VALIDAR SI ES EL NAVEGADOR CHROME SE LES DA PARAMETROS DIFERENTES
+var is_chrome = navigator.userAgent.toLowerCase().indexOf('chrome') > -1;
+        if(is_chrome)
+		{
+			parametros  = 'width='+screen.width;
+ 			parametros += ', height='+screen.height;
+			parametros += ', top=0, left=0'
+			parametros += ', fullscreen=yes';	
+		}
+
+onLoad=MM_openBrWindow(url,'Risk',parametros)
+//-->
+</script>
+</head>
+
+<BODY bgcolor="#FFFFFF" text="#000000">
+<p align="center"><!--webbot bot="HTMLMarkup" startspan -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
+ <tr>
+  <td>
+   <div align="center"><img src="logo.jpg" width="300" height="125"></div>
+  </td>
+ </tr>
+</table>
+<p align="center"> 
+</body>
+</html>
