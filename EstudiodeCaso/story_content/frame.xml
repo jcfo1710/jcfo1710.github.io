@@ -6,7 +6,6 @@
     <layout name="npxnabnsnfns10111000101" font="Open Sans" controllayout="npxnabnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
     <layout name="npnxnanbnsnfns10111000101" font="Open Sans" controllayout="npnxnanbnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
     <layout name="pxabnsnfns10111000100" font="Open Sans" controllayout="pxabnsnfns10111000100" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
-    <layout name="npnxabnsnfns10111000101" font="Open Sans" controllayout="npnxabnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
     <layout name="npxnanbnsnfns10111000101" font="Open Sans" controllayout="npxnanbnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
   </layouts>
   <control_options>
@@ -67,7 +66,7 @@
           <option name="pauseplay" value="true" />
           <option name="replay" value="true" />
           <option name="search" value="false" />
-          <option name="closed_captions" value="true">
+          <option name="closed_captions" value="false">
             <options>
               <option name="font" value="Open Sans" />
             </options>
@@ -196,29 +195,6 @@
         </controls>
       </control>
       <control name="close_btn" enabled="false" />
-    </control_layout>
-    <control_layout name="npnxabnsnfns10111000101">
-      <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="true" />
-      <control name="replay" enabled="true" />
-      <control name="pauseplay" enabled="true" />
-      <control name="logo" enabled="false" />
-      <control name="previous" enabled="false" />
-      <control name="next" enabled="false" />
-      <control name="swipeleft" enabled="true" />
-      <control name="swiperight" enabled="true" />
-      <control name="submit" enabled="false" />
-      <control name="finish" enabled="false" />
-      <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
-      <control name="outline" enabled="true">
-        <controls>
-          <control name="search" enabled="false" />
-        </controls>
-      </control>
-      <control name="close_btn" enabled="true" />
     </control_layout>
     <control_layout name="npxnanbnsnfns10111000101">
       <control name="volume" enabled="true" />
@@ -1215,29 +1191,39 @@
             <slidelink slideid="_player.5ifj4rmG8gH.6aeci0iOWZY" displaytext="Presentación" expand="false" type="slide" />
             <slidelink slideid="_player.5ifj4rmG8gH.5YoXtm9PSf0" displaytext="Contexto General" expand="false" type="slide" />
             <slidelink slideid="_player.5ifj4rmG8gH.5qv280IwoXP" displaytext="¿Quién eres tu?" expand="false" type="slide" />
-            <slidelink slideid="_player.5ifj4rmG8gH.6NkISvhwPze" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.5ifj4rmG8gH.6NkISvhwPze" displaytext="Contexto Especifico" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="" displaytext="DOFA" expand="true" type="slide" />
+        <slidelink slideid="_player.5YvlifDw4rg" displaytext="DOFA" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5YvlifDw4rg.6gqRw71Qga9" displaytext="DOFA" expand="false" type="slide" />
+          </links>
+        </slidelink>
         <slidelink slideid="_player.6iuUPlZ4Q2C" displaytext="UCAB 20-20" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6iuUPlZ4Q2C.6DOilXFlRb0" displaytext="Iniciativa" expand="false" type="slide" />
             <slidelink slideid="_player.6iuUPlZ4Q2C.5twfTGT7Jpj" displaytext="¿En qué consites?" expand="false" type="slide" />
-            <slidelink slideid="_player.6iuUPlZ4Q2C.5zo0fP6OyJo" displaytext="Alcance y complejidad de la iniciativa" expand="false" type="slide" />
             <slidelink slideid="_player.6iuUPlZ4Q2C.5c1iZFx7X8N" displaytext="Fuentes de resistencia" expand="false" type="slide" />
+            <slidelink slideid="_player.6iuUPlZ4Q2C.5zo0fP6OyJo" displaytext="Alcance y complejidad de la iniciativa" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5jbBNIxCQpE" displaytext="Herramientas para el diagnóstico del cambio organizacional de la UCAB" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5jbBNIxCQpE.6kPjXpTWHaX" displaytext="Herramientas para el diagnóstico del cambio organizacional de la  UCAB" expand="false" type="slide" />
-            <slidelink slideid="_player.5jbBNIxCQpE.64WPb88L8J2" displaytext="Análisis de Stakeholders" expand="false" type="slide" />
             <slidelink slideid="_player.5jbBNIxCQpE.5y0J2m1NzGm" displaytext="Mapa Poder" expand="false" type="slide" />
+            <slidelink slideid="_player.5jbBNIxCQpE.64WPb88L8J2" displaytext="Análisis de Stakeholders" expand="false" type="slide" />
             <slidelink slideid="_player.5jbBNIxCQpE.6YLLxRD2xS3" displaytext="Niveles de resistencia al cambio" expand="false" type="slide" />
             <slidelink slideid="_player.5jbBNIxCQpE.61H7GXCYqHF" displaytext="Madurez de la organización" expand="false" type="slide" />
             <slidelink slideid="_player.5jbBNIxCQpE.6OoG8KNyXco" displaytext="El Reto" expand="false" type="slide" />
+            <slidelink slideid="_player.5jbBNIxCQpE.6QJpTlMpqO8" displaytext="Detalles sobre los actores" expand="false" type="slide" />
+            <slidelink slideid="_player.5jbBNIxCQpE.5yiiZ9Ip0ow" displaytext="Detalles sobre los actores audios" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="" displaytext="Cierre" expand="true" type="slide" />
+        <slidelink slideid="_player.5UvwQ9ww0IB" displaytext="Cierre" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5UvwQ9ww0IB.6ZLbqJHqvag" displaytext="Cierre" expand="false" type="slide" />
+          </links>
+        </slidelink>
       </links>
     </outline>
   </nav_data>
