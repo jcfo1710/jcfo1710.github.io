@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns10110100101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" outputtype="undefined">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns10111000101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" outputtype="undefined">
   <layouts>
-    <layout name="npnxnanbsnfns10110100101" font="Open Sans" controllayout="npnxnanbsnfns10110100101" colorscheme="pxabnsnfns10110100101" string_table="pxabnsnfns10110100101" />
-    <layout name="pxabnsnfns10110100101" font="Open Sans" controllayout="pxabnsnfns10110100101" colorscheme="pxabnsnfns10110100101" string_table="pxabnsnfns10110100101" />
-    <layout name="npxnabnsnfns10110100101" font="Open Sans" controllayout="npxnabnsnfns10110100101" colorscheme="pxabnsnfns10110100101" string_table="pxabnsnfns10110100101" />
-    <layout name="npnxnanbnsnfns10110100101" font="Open Sans" controllayout="npnxnanbnsnfns10110100101" colorscheme="pxabnsnfns10110100101" string_table="pxabnsnfns10110100101" />
-    <layout name="pxabnsnfns10110100100" font="Open Sans" controllayout="pxabnsnfns10110100100" colorscheme="pxabnsnfns10110100101" string_table="pxabnsnfns10110100101" />
-    <layout name="npnxabnsnfns10110100101" font="Open Sans" controllayout="npnxabnsnfns10110100101" colorscheme="pxabnsnfns10110100101" string_table="pxabnsnfns10110100101" />
-    <layout name="npxnanbnsnfns10110100101" font="Open Sans" controllayout="npxnanbnsnfns10110100101" colorscheme="pxabnsnfns10110100101" string_table="pxabnsnfns10110100101" />
+    <layout name="npnxnanbsnfns10111000101" font="Open Sans" controllayout="npnxnanbsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
+    <layout name="pxabnsnfns10111000101" font="Open Sans" controllayout="pxabnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
+    <layout name="npxnabnsnfns10111000101" font="Open Sans" controllayout="npxnabnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
+    <layout name="npnxnanbnsnfns10111000101" font="Open Sans" controllayout="npnxnanbnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
+    <layout name="pxabnsnfns10111000100" font="Open Sans" controllayout="pxabnsnfns10111000100" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
+    <layout name="npnxabnsnfns10111000101" font="Open Sans" controllayout="npnxabnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
+    <layout name="npxnanbnsnfns10111000101" font="Open Sans" controllayout="npxnanbnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -21,15 +21,15 @@
           <option name="logo_enabled" value="false">
             <options />
           </option>
-          <option name="sidebar_enabled" value="false">
+          <option name="sidebar_enabled" value="true">
             <options>
               <option name="sidebarpos" value="left" />
             </options>
           </option>
           <optionlist name="tabs">
             <listitems>
-              <listitem name="resources" value="true" group="linkright" />
-              <listitem name="outline" value="false" group="sidebar" />
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
               <listitem name="glossary" value="false" group="sidebar" />
               <listitem name="transcript" value="false" group="sidebar" />
             </listitems>
@@ -82,7 +82,7 @@
     </optiongroups>
   </control_options>
   <control_layouts>
-    <control_layout name="npnxnanbsnfns10110100101">
+    <control_layout name="npnxnanbsnfns10111000101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -95,17 +95,17 @@
       <control name="submit" enabled="true" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="true" />
+      <control name="resources" enabled="false" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
-      <control name="outline" enabled="false">
+      <control name="outline" enabled="true">
         <controls>
           <control name="search" enabled="false" />
         </controls>
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns10110100101">
+    <control_layout name="pxabnsnfns10111000101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -118,17 +118,17 @@
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="true" />
+      <control name="resources" enabled="false" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
-      <control name="outline" enabled="false">
+      <control name="outline" enabled="true">
         <controls>
           <control name="search" enabled="false" />
         </controls>
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npxnabnsnfns10110100101">
+    <control_layout name="npxnabnsnfns10111000101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -141,17 +141,17 @@
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="true" />
+      <control name="resources" enabled="false" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
-      <control name="outline" enabled="false">
+      <control name="outline" enabled="true">
         <controls>
           <control name="search" enabled="false" />
         </controls>
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npnxnanbnsnfns10110100101">
+    <control_layout name="npnxnanbnsnfns10111000101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -164,17 +164,17 @@
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="true" />
+      <control name="resources" enabled="false" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
-      <control name="outline" enabled="false">
+      <control name="outline" enabled="true">
         <controls>
           <control name="search" enabled="false" />
         </controls>
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns10110100100">
+    <control_layout name="pxabnsnfns10111000100">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -187,17 +187,17 @@
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="true" />
+      <control name="resources" enabled="false" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
-      <control name="outline" enabled="false">
+      <control name="outline" enabled="true">
         <controls>
           <control name="search" enabled="false" />
         </controls>
       </control>
       <control name="close_btn" enabled="false" />
     </control_layout>
-    <control_layout name="npnxabnsnfns10110100101">
+    <control_layout name="npnxabnsnfns10111000101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -210,17 +210,17 @@
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="true" />
+      <control name="resources" enabled="false" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
-      <control name="outline" enabled="false">
+      <control name="outline" enabled="true">
         <controls>
           <control name="search" enabled="false" />
         </controls>
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npxnanbnsnfns10110100101">
+    <control_layout name="npxnanbnsnfns10111000101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -233,10 +233,10 @@
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="true" />
+      <control name="resources" enabled="false" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
-      <control name="outline" enabled="false">
+      <control name="outline" enabled="true">
         <controls>
           <control name="search" enabled="false" />
         </controls>
@@ -245,7 +245,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="pxabnsnfns10110100101">
+    <colorscheme name="pxabnsnfns10111000101">
       <color_group name="infopanel">
         <group_colors>
           <color name="link_text">
@@ -1151,7 +1151,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="pxabnsnfns10110100101">
+    <string_table name="pxabnsnfns10111000101">
       <string id="more_info">Más información</string>
       <string id="bio">Biografía</string>
       <string id="prev">ANT</string>
@@ -1218,11 +1218,7 @@
             <slidelink slideid="_player.5ifj4rmG8gH.6NkISvhwPze" displaytext="Diapositiva sin título" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5YvlifDw4rg" displaytext="DOFA" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5YvlifDw4rg.6gqRw71Qga9" displaytext="DOFA" expand="false" type="slide" />
-          </links>
-        </slidelink>
+        <slidelink slideid="" displaytext="DOFA" expand="true" type="slide" />
         <slidelink slideid="_player.6iuUPlZ4Q2C" displaytext="UCAB 20-20" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6iuUPlZ4Q2C.6DOilXFlRb0" displaytext="Iniciativa" expand="false" type="slide" />
@@ -1239,24 +1235,13 @@
             <slidelink slideid="_player.5jbBNIxCQpE.6YLLxRD2xS3" displaytext="Niveles de resistencia al cambio" expand="false" type="slide" />
             <slidelink slideid="_player.5jbBNIxCQpE.61H7GXCYqHF" displaytext="Madurez de la organización" expand="false" type="slide" />
             <slidelink slideid="_player.5jbBNIxCQpE.6OoG8KNyXco" displaytext="El Reto" expand="false" type="slide" />
-            <slidelink slideid="_player.5jbBNIxCQpE.6QJpTlMpqO8" displaytext="Detalles sobre los actores" expand="false" type="slide" />
-            <slidelink slideid="_player.5jbBNIxCQpE.5yiiZ9Ip0ow" displaytext="Detalles sobre los actores" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5UvwQ9ww0IB" displaytext="Cierre" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5UvwQ9ww0IB.6ZLbqJHqvag" displaytext="Cierre" expand="false" type="slide" />
-          </links>
-        </slidelink>
+        <slidelink slideid="" displaytext="Cierre" expand="true" type="slide" />
       </links>
     </outline>
   </nav_data>
-  <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans' style='font-size: 11px;' size='11' color='#444444'&gt;Estos son algunos v&amp;#237;nculos y documentos &amp;#250;tiles:&lt;/font&gt;&lt;/p&gt;">
-    <resources>
-      <resource url="story_content/external_files/Accionador 3 PlanUcab2020.pdf" image="story_content/6eIuUsZELHc.png" title="Accionador 3 PlanUcab2020" />
-      <resource url="story_content/external_files/Accionador 5 (T2-3)_ Procedimiento para el cumplimiento de las normas sobre apertura y cierre de secciones.pdf" image="story_content/6ULEQPtQits.png" title="Accionador 5 (T2-3)_ Procedimiento para el cumplimiento de las normas sobre apertura y cierre de secciones" />
-    </resources>
-  </resource_data>
+  <resource_data description="" />
   <transcript_data />
   <glossary_data />
 </bwFrame>
