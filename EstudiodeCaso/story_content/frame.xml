@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns10111000101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" outputtype="undefined">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnabnsnfns10111000101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" outputtype="undefined">
   <layouts>
-    <layout name="npnxnanbsnfns10111000101" font="Open Sans" controllayout="npnxnanbsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
-    <layout name="pxabnsnfns10111000101" font="Open Sans" controllayout="pxabnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
-    <layout name="npxnabnsnfns10111000101" font="Open Sans" controllayout="npxnabnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
-    <layout name="npnxnanbnsnfns10111000101" font="Open Sans" controllayout="npnxnanbnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
-    <layout name="pxabnsnfns10111000100" font="Open Sans" controllayout="pxabnsnfns10111000100" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
-    <layout name="npxnanbnsnfns10111000101" font="Open Sans" controllayout="npxnanbnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
+    <layout name="npnxnanbsnfns10111000101" font="Open Sans" controllayout="npnxnanbsnfns10111000101" colorscheme="npxnabnsnfns10111000101" string_table="npxnabnsnfns10111000101" />
+    <layout name="pxabnsnfns10111000101" font="Open Sans" controllayout="pxabnsnfns10111000101" colorscheme="npxnabnsnfns10111000101" string_table="npxnabnsnfns10111000101" />
+    <layout name="npxnabnsnfns10111000101" font="Open Sans" controllayout="npxnabnsnfns10111000101" colorscheme="npxnabnsnfns10111000101" string_table="npxnabnsnfns10111000101" />
+    <layout name="npnxnanbnsnfns10111000101" font="Open Sans" controllayout="npnxnanbnsnfns10111000101" colorscheme="npxnabnsnfns10111000101" string_table="npxnabnsnfns10111000101" />
+    <layout name="pxabnsnfns10111000100" font="Open Sans" controllayout="pxabnsnfns10111000100" colorscheme="npxnabnsnfns10111000101" string_table="npxnabnsnfns10111000101" />
+    <layout name="npxnanbnsnfns10111000101" font="Open Sans" controllayout="npxnanbnsnfns10111000101" colorscheme="npxnabnsnfns10111000101" string_table="npxnabnsnfns10111000101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -221,7 +221,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="pxabnsnfns10111000101">
+    <colorscheme name="npxnabnsnfns10111000101">
       <color_group name="infopanel">
         <group_colors>
           <color name="link_text">
@@ -1127,7 +1127,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="pxabnsnfns10111000101">
+    <string_table name="npxnabnsnfns10111000101">
       <string id="more_info">Más información</string>
       <string id="bio">Biografía</string>
       <string id="prev">ANT</string>
@@ -1190,15 +1190,11 @@
           <links>
             <slidelink slideid="_player.5ifj4rmG8gH.6aeci0iOWZY" displaytext="Presentación" expand="false" type="slide" />
             <slidelink slideid="_player.5ifj4rmG8gH.5YoXtm9PSf0" displaytext="Contexto General" expand="false" type="slide" />
-            <slidelink slideid="_player.5ifj4rmG8gH.5qv280IwoXP" displaytext="¿Quién eres tu?" expand="false" type="slide" />
+            <slidelink slideid="_player.5ifj4rmG8gH.5qv280IwoXP" displaytext="¿Quién eres tú?" expand="false" type="slide" />
             <slidelink slideid="_player.5ifj4rmG8gH.6NkISvhwPze" displaytext="Contexto Especifico" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5YvlifDw4rg" displaytext="DOFA" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5YvlifDw4rg.6gqRw71Qga9" displaytext="DOFA" expand="false" type="slide" />
-          </links>
-        </slidelink>
+        <slidelink slideid="" displaytext="DOFA" expand="true" type="slide" />
         <slidelink slideid="_player.6iuUPlZ4Q2C" displaytext="UCAB 20-20" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6iuUPlZ4Q2C.6DOilXFlRb0" displaytext="Iniciativa" expand="false" type="slide" />
