@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnabnsnfns10111000101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" outputtype="undefined">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnabnsnfns10111001101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" outputtype="undefined">
   <layouts>
-    <layout name="npnxnanbsnfns10111000101" font="Open Sans" controllayout="npnxnanbsnfns10111000101" colorscheme="npxnabnsnfns10111000101" string_table="npxnabnsnfns10111000101" />
-    <layout name="pxabnsnfns10111000101" font="Open Sans" controllayout="pxabnsnfns10111000101" colorscheme="npxnabnsnfns10111000101" string_table="npxnabnsnfns10111000101" />
-    <layout name="npxnabnsnfns10111000101" font="Open Sans" controllayout="npxnabnsnfns10111000101" colorscheme="npxnabnsnfns10111000101" string_table="npxnabnsnfns10111000101" />
-    <layout name="npnxnanbnsnfns10111000101" font="Open Sans" controllayout="npnxnanbnsnfns10111000101" colorscheme="npxnabnsnfns10111000101" string_table="npxnabnsnfns10111000101" />
-    <layout name="pxabnsnfns10111000100" font="Open Sans" controllayout="pxabnsnfns10111000100" colorscheme="npxnabnsnfns10111000101" string_table="npxnabnsnfns10111000101" />
-    <layout name="npxnanbnsnfns10111000101" font="Open Sans" controllayout="npxnanbnsnfns10111000101" colorscheme="npxnabnsnfns10111000101" string_table="npxnabnsnfns10111000101" />
+    <layout name="npnxnanbsnfns10111001101" font="Open Sans" controllayout="npnxnanbsnfns10111001101" colorscheme="npxnabnsnfns10111001101" string_table="npxnabnsnfns10111001101" />
+    <layout name="pxabnsnfns10111001101" font="Open Sans" controllayout="pxabnsnfns10111001101" colorscheme="npxnabnsnfns10111001101" string_table="npxnabnsnfns10111001101" />
+    <layout name="npxnabnsnfns10111001101" font="Open Sans" controllayout="npxnabnsnfns10111001101" colorscheme="npxnabnsnfns10111001101" string_table="npxnabnsnfns10111001101" />
+    <layout name="npnxnanbnsnfns10111001101" font="Open Sans" controllayout="npnxnanbnsnfns10111001101" colorscheme="npxnabnsnfns10111001101" string_table="npxnabnsnfns10111001101" />
+    <layout name="pxabnsnfns10111001100" font="Open Sans" controllayout="pxabnsnfns10111001100" colorscheme="npxnabnsnfns10111001101" string_table="npxnabnsnfns10111001101" />
+    <layout name="npxnanbnsnfns10111001101" font="Open Sans" controllayout="npxnanbnsnfns10111001101" colorscheme="npxnabnsnfns10111001101" string_table="npxnabnsnfns10111001101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -30,7 +30,7 @@
               <listitem name="resources" value="false" group="linkright" />
               <listitem name="outline" value="true" group="sidebar" />
               <listitem name="glossary" value="false" group="sidebar" />
-              <listitem name="transcript" value="false" group="sidebar" />
+              <listitem name="transcript" value="true" group="sidebar" />
             </listitems>
           </optionlist>
           <option name="time_enabled" value="false">
@@ -81,7 +81,7 @@
     </optiongroups>
   </control_options>
   <control_layouts>
-    <control_layout name="npnxnanbsnfns10111000101">
+    <control_layout name="npnxnanbsnfns10111001101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -96,7 +96,7 @@
       <control name="submitall" enabled="false" />
       <control name="resources" enabled="false" />
       <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
+      <control name="transcript" enabled="true" />
       <control name="outline" enabled="true">
         <controls>
           <control name="search" enabled="false" />
@@ -104,7 +104,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns10111000101">
+    <control_layout name="pxabnsnfns10111001101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -119,7 +119,7 @@
       <control name="submitall" enabled="false" />
       <control name="resources" enabled="false" />
       <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
+      <control name="transcript" enabled="true" />
       <control name="outline" enabled="true">
         <controls>
           <control name="search" enabled="false" />
@@ -127,7 +127,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npxnabnsnfns10111000101">
+    <control_layout name="npxnabnsnfns10111001101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -142,7 +142,7 @@
       <control name="submitall" enabled="false" />
       <control name="resources" enabled="false" />
       <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
+      <control name="transcript" enabled="true" />
       <control name="outline" enabled="true">
         <controls>
           <control name="search" enabled="false" />
@@ -150,7 +150,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npnxnanbnsnfns10111000101">
+    <control_layout name="npnxnanbnsnfns10111001101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -165,7 +165,7 @@
       <control name="submitall" enabled="false" />
       <control name="resources" enabled="false" />
       <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
+      <control name="transcript" enabled="true" />
       <control name="outline" enabled="true">
         <controls>
           <control name="search" enabled="false" />
@@ -173,7 +173,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns10111000100">
+    <control_layout name="pxabnsnfns10111001100">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -188,7 +188,7 @@
       <control name="submitall" enabled="false" />
       <control name="resources" enabled="false" />
       <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
+      <control name="transcript" enabled="true" />
       <control name="outline" enabled="true">
         <controls>
           <control name="search" enabled="false" />
@@ -196,7 +196,7 @@
       </control>
       <control name="close_btn" enabled="false" />
     </control_layout>
-    <control_layout name="npxnanbnsnfns10111000101">
+    <control_layout name="npxnanbnsnfns10111001101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -211,7 +211,7 @@
       <control name="submitall" enabled="false" />
       <control name="resources" enabled="false" />
       <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
+      <control name="transcript" enabled="true" />
       <control name="outline" enabled="true">
         <controls>
           <control name="search" enabled="false" />
@@ -221,7 +221,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="npxnabnsnfns10111000101">
+    <colorscheme name="npxnabnsnfns10111001101">
       <color_group name="infopanel">
         <group_colors>
           <color name="link_text">
@@ -1127,7 +1127,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="npxnabnsnfns10111000101">
+    <string_table name="npxnabnsnfns10111001101">
       <string id="more_info">Más información</string>
       <string id="bio">Biografía</string>
       <string id="prev">ANT</string>
@@ -1194,36 +1194,32 @@
             <slidelink slideid="_player.5ifj4rmG8gH.6NkISvhwPze" displaytext="Contexto Especifico" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="" displaytext="DOFA" expand="true" type="slide" />
-        <slidelink slideid="_player.6iuUPlZ4Q2C" displaytext="UCAB 20-20" expand="true" type="slide">
+        <slidelink slideid="_player.6iuUPlZ4Q2C" displaytext="Iniciativa" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6iuUPlZ4Q2C.6DOilXFlRb0" displaytext="Iniciativa" expand="false" type="slide" />
             <slidelink slideid="_player.6iuUPlZ4Q2C.5twfTGT7Jpj" displaytext="¿En qué consites?" expand="false" type="slide" />
-            <slidelink slideid="_player.6iuUPlZ4Q2C.5c1iZFx7X8N" displaytext="Fuentes de resistencia" expand="false" type="slide" />
             <slidelink slideid="_player.6iuUPlZ4Q2C.5zo0fP6OyJo" displaytext="Alcance y complejidad de la iniciativa" expand="false" type="slide" />
+            <slidelink slideid="_player.6iuUPlZ4Q2C.5c1iZFx7X8N" displaytext="Fuentes de resistencia" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5jbBNIxCQpE" displaytext="Herramientas para el diagnóstico del cambio organizacional de la UCAB" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5jbBNIxCQpE.6kPjXpTWHaX" displaytext="Herramientas para el diagnóstico del cambio organizacional de la  UCAB" expand="false" type="slide" />
-            <slidelink slideid="_player.5jbBNIxCQpE.5y0J2m1NzGm" displaytext="Mapa Poder" expand="false" type="slide" />
             <slidelink slideid="_player.5jbBNIxCQpE.64WPb88L8J2" displaytext="Análisis de Stakeholders" expand="false" type="slide" />
+            <slidelink slideid="_player.5jbBNIxCQpE.5y0J2m1NzGm" displaytext="Mapa Poder" expand="false" type="slide" />
+            <slidelink slideid="_player.5jbBNIxCQpE.6QJpTlMpqO8" displaytext="Detalles sobre los actores" expand="false" type="slide" />
             <slidelink slideid="_player.5jbBNIxCQpE.6YLLxRD2xS3" displaytext="Niveles de resistencia al cambio" expand="false" type="slide" />
             <slidelink slideid="_player.5jbBNIxCQpE.61H7GXCYqHF" displaytext="Madurez de la organización" expand="false" type="slide" />
             <slidelink slideid="_player.5jbBNIxCQpE.6OoG8KNyXco" displaytext="El Reto" expand="false" type="slide" />
-            <slidelink slideid="_player.5jbBNIxCQpE.6QJpTlMpqO8" displaytext="Detalles sobre los actores" expand="false" type="slide" />
-            <slidelink slideid="_player.5jbBNIxCQpE.5yiiZ9Ip0ow" displaytext="Detalles sobre los actores audios" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5UvwQ9ww0IB" displaytext="Cierre" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5UvwQ9ww0IB.6ZLbqJHqvag" displaytext="Cierre" expand="false" type="slide" />
-          </links>
-        </slidelink>
+        <slidelink slideid="" displaytext="Cierre" expand="true" type="slide" />
       </links>
     </outline>
   </nav_data>
   <resource_data description="" />
-  <transcript_data />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="5WjdA1iedp6.5z1fGDGNT0k" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;&lt;b&gt;Vicerrector acad&amp;#233;mico  &lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Actitud hacia el cambio &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Las cosas deben ser como siempre han sido all&amp;#237; radica su calidad, las cosas no hay que cambiarlas y en todo caso hay que hacerlas como se hac&amp;#237;an hist&amp;#243;ricamente. El pasado siempre fue mejor, yo no soy partidario de cambio, mucho menos si las cosas funcionan bien, lo que debemos hacer es mantener las cosas como siempre se han realizado.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Estilo de Liderazgo&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Yo considero que cada uno de los directores de escuela debe tener clara su responsabilidad, no considero que la motivaci&amp;#243;n u orientaci&amp;#243;n en este aspecto sea mi responsabilidad directa. Yo, me gu&amp;#237;o por los aspectos normativos que est&amp;#225;n establecidos, y parto del supuesto de que cada quien debe hacer su trabajo. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;&lt;b&gt;Decano facultad de humanidades&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Actitud hacia el cambio&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Hay que cambiar, la educaci&amp;#243;n es distinta, los estudiantes aprenden de manera diferente. Tambi&amp;#233;n las instituciones deben ser gestionadas de manera distinta, no basta con efectuar las rutinas, hay que idear cosas nuevas y yo soy un fiel creyente de ello. Estoy dispuesto a cambiar.  &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Estilo de liderazgo&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Dirigir una facultad de este tipo no es sencillo, los directores de escuela pertenecen a disciplinas muy diversas, no puedo simplemente ce&amp;#241;irme a las metas, tengo que convencer y a veces es dif&amp;#237;cil. Trato de hacerlo por las buenas, y a veces no queda m&amp;#225;s remedio que presentar las metas, repetir e insistir. La verdad no es f&amp;#225;cil, a veces me siento abrumado. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;&lt;b&gt;Decano facultad de derecho&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Actitud hacia el cambio&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Decano facultad de derecho  Estos temas de los procesos, actualizaci&amp;#243;n o cambio de los procesos, a veces me saca de mis casillas, para mi es mucho m&amp;#225;s sencillo entender que hay unas normas, y esas normas est&amp;#225;n vigentes desde hace mucho y la gente debe cumplirlas. No entiendo qu&amp;#233; hay que cambiar, lo que hay que hacer es lo que las normas plantean. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Estilo de Liderazgo&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Las normas est&amp;#225;n para cumplirse y esto es una norma, he tenido resistencia de muchos profesores y directores sobre los tama&amp;#241;os de la secci&amp;#243;n. Considero que guiar o liderar este proceso implica simplemente mostrarles d&amp;#243;nde est&amp;#225; la exigencia. La gente tiene que cumplir, no importa tanto que yo motive o haga seguimiento. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;&lt;b&gt;Decano facultad de Ingenier&amp;#237;a &lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Actitud hacia el cambio&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;No s&amp;#233; si soy suficientemente buena para impulsar las cosas que deber&amp;#237;an cambiar, pero entiendo la agenda, la tengo clara, estoy clar&amp;#237;sima en por qu&amp;#233; debemos cambiar, ahora lo que hay que hacer es hacer seguimiento a eso, revisar la lista de cosas por hacer cada d&amp;#237;a, hacer seguimiento a los proyectos que est&amp;#225;n planteados en el marco de la estrategia. La gente de dice que soy impaciente para eso, pero en todo caso tenemos que ponernos en pr&amp;#225;ctica, hay que cumplir con los planes que hemos establecido. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Estilo de Liderazgo&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Yo soy muy detallista con el cumplimiento de las normas y de las metas, entiendo lo que debemos lograr y me dedico a efectuar una revisi&amp;#243;n detallada de los logros en el caso de cada director de escuela, no lograrlo es negativo, hago seguimiento, insisto y a veces no me hacen caso. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;&lt;b&gt;Director de la escuela de administraci&amp;#243;n &lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Actitud hacia el cambio&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Las normas, procedimientos y rutinas, est&amp;#225;n all&amp;#237; para ser cumplidas en el marco de una estrategia clara. Intento guiar a la gente, s&amp;#233; que soy impaciente, pero hay una burocracia establecida y hay que efectivamente darle cumplimiento a los planes que se han definido. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Estilo de Liderazgo&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Yo, voy cumpliendo con todo, est&amp;#225; en el plan operativo y simplemente ejecuto. Tengo claro por qu&amp;#233; la eficiencia es importante en estos momentos. Mi equipo sabe c&amp;#243;mo soy, paso revista, veo el cumplimiento de las normas, trato de incentivarlos, y cada quien debe hacer su trabajo.  &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;&lt;b&gt;Director de la escuela de Comunicaci&amp;#243;n Social. &lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Actitud hacia el cambio&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Siempre soy partidario de los cambios tenemos que tratar de seguir cambiando y mejorando la escuela. A veces creo que no soy tan buena para que los procedimientos y las normas vayan al ritmo de esos cambios. Me cuesta m&amp;#225;s revisar la lista con detalle de las cosas que hacer que iniciar transformaciones o ajustes a una sociedad de la comunicaci&amp;#243;n que evoluciona todos los d&amp;#237;as. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Estilo de Liderazgo&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Esta escuela es muy grande, hay muchos estudiantes, muchas cosas por mejorar o consolidar, esto es una arista m&amp;#225;s y se une a otras, a veces siento que estoy apabullada, trato de hacer seguimiento, tengo muchos jefes de c&amp;#225;tedra o departamento y a veces no me acompa&amp;#241;an, entiendo que esto puede ser importante pero tambi&amp;#233;n la escuela de Comunicaci&amp;#243;n Social es casi una facultad, es muy compleja y necesito ayuda.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;&lt;b&gt;Director de la escuela de Derecho&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Actitud hacia el cambio&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Las normas son las normas, las tradiciones son las tradiciones, no importa que me perciban como r&amp;#237;gido, como un bur&amp;#243;crata, tratar&amp;#233; de llevar esto adelante aunque a veces no lo comprendo demasiado. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Estilo de liderazgo&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Yo intento, igual que los otros aspectos que est&amp;#225;n en el plan operativo, que los docentes me entiendan, les repito esto como una normativa que a veces no entiendo mucho, ellos simplemente tienen que acatarla pero a veces es imposible que me hagan caso, tambi&amp;#233;n he pedido explicaciones adicionales para entender el alcance y la estrategia detr&amp;#225;s de una iniciativa como esta, a veces creo que no lo tengo claro. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;&lt;b&gt;Director de la escuela de Letras&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Actitud hacia el cambio&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Creo que en ocasiones los cambios estrat&amp;#233;gicos, los cambios m&amp;#225;s importantes son los que deben guiarnos, un muchacho debe saber leer y escribir y yo no puedo apartar mi mente de ese reto. A veces creo que las rutinas organizacionales son muy r&amp;#237;gidas, es m&amp;#225;s dif&amp;#237;cil seguirlas, no creo que est&amp;#233;n a tono con las grandes demandas estrat&amp;#233;gicas. La verdad prefiero los lugares deseables en relaci&amp;#243;n con la academia, y estoy un tanto harta de las rutinas. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Estilo de liderazgo&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Yo entiendo aquello a lo cual debemos hacer seguimiento con detalle, pero me parece que hay otras cosas m&amp;#225;s importantes tal es  el caso por ejemplo de la calidad acad&amp;#233;mica, trato de centrarme en eso. Es muy dif&amp;#237;cil centrarse o enfocarse en todos los aspectos al mismo tiempo, no lo tengo claro, pero yo hago lo posible. No estoy seguro de si en esta instituci&amp;#243;n las prioridades est&amp;#225;n claras.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;&lt;b&gt;Director de la escuela de Psicolog&amp;#237;a&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Actitud hacia el cambio&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;No hay nada que me incomode m&amp;#225;s que los ambientes burocr&amp;#225;ticos. La gente sabe que yo intento ser flexible todo el tiempo, me gusta ser perfeccionista pero valoro mucho lo novedoso, no tanto las tradiciones. Hay que mantener una visi&amp;#243;n de largo plazo. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Estilo de Liderazgo&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Open Sans' size='12.5pt' style='font-size:12.5pt' color='#444444'&gt;Cuando aplico el instrumento de liderazgo en la versi&amp;#243;n autoapreciativa entiendo que mi estilo de liderazgo es transformacional, yo prefiero no ce&amp;#241;irme a normas estrictas, prefiero centrarme en cosas que considero son m&amp;#225;s estrat&amp;#233;gicas, me cuesta a veces hacerle seguimiento a los docentes y a los procesos espec&amp;#237;ficamente para cumplir con esta normativa. A veces quisiera participar m&amp;#225;s en la estrategia, poder cambiar las cosas, no tanto hacer seguimiento a estos aspectos que considero que son burocr&amp;#225;ticos. La verdad no entiendo, en ocasiones creo que este no es mi trabajo.  &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
   <glossary_data />
 </bwFrame>
