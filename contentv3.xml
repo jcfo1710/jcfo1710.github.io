@@ -293,8 +293,10 @@
            <string value=""></string>
            <string role="key" value="anchor_names"></string>
            <list></list>
+           <string role="key" value="anchors_linked_from_fields"></string>
+           <dictionary></dictionary>
            <string role="key" value="content_w_resourcePaths"></string>
-           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;strong&gt;Teléfono:&lt;/strong&gt; +54 9 11 21900334&lt;/p&gt;
+           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;strong&gt;Teléfono:&lt;/strong&gt; +54 9 11 38190640&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Correo electrónico:&lt;/strong&gt; jcfo1710@gmail.com&lt;/p&gt;&lt;/div&gt;"></unicode>
            <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
            <int value="4"></int>
@@ -318,7 +320,7 @@
            <string role="key" value="nextImageId"></string>
            <int value="0"></int>
            <string role="key" value="parentNode"></string>
-           <none></none>
+           <reference key="3"></reference>
           </dictionary>
          </instance>
         </list>
@@ -445,7 +447,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="212"></int>
+                  <int value="218"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -459,7 +461,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="12_113_2.8"></unicode>
+                <unicode value="12_113_2.14"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="9">
                  <dictionary>
@@ -470,7 +472,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="articulate360.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\hetcx\\appdata\\local\\temp\\tmpoj7fej\\articulate360.png"></string>
+                  <string value="c:\\users\\hetcx\\appdata\\local\\temp\\tmpcvcchw\\articulate360.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="52a393f620bd079613964abf4823cbb5"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -497,7 +499,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="213"></int>
+                  <int value="219"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -511,7 +513,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="12_113_2.9"></unicode>
+                <unicode value="12_113_2.15"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="10">
                  <dictionary>
@@ -522,7 +524,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="google_drive.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\hetcx\\appdata\\local\\temp\\tmpoj7fej\\google_drive.png"></string>
+                  <string value="c:\\users\\hetcx\\appdata\\local\\temp\\tmpcvcchw\\google_drive.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="5dbef8768129c9d4af2c13cc101a3579"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -549,7 +551,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="214"></int>
+                  <int value="220"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -563,7 +565,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="12_113_2.10"></unicode>
+                <unicode value="12_113_2.16"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="11">
                  <dictionary>
@@ -574,7 +576,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="ispring-suite--1559230686-logo.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\hetcx\\appdata\\local\\temp\\tmpoj7fej\\ispring-suite--1559230686-logo.png"></string>
+                  <string value="c:\\users\\hetcx\\appdata\\local\\temp\\tmpcvcchw\\ispring-suite--1559230686-logo.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="f4be4e3a0c6f8f6be979d80b10144e35"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -601,7 +603,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="215"></int>
+                  <int value="221"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -615,7 +617,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="12_113_2.11"></unicode>
+                <unicode value="12_113_2.17"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="12">
                  <dictionary>
@@ -626,7 +628,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="moodle.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\hetcx\\appdata\\local\\temp\\tmpoj7fej\\moodle.png"></string>
+                  <string value="c:\\users\\hetcx\\appdata\\local\\temp\\tmpcvcchw\\moodle.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="ae51219ff16be27eaf2d70bb10f3717e"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -653,7 +655,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="216"></int>
+                  <int value="222"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -667,7 +669,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="12_113_2.12"></unicode>
+                <unicode value="12_113_2.18"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="13">
                  <dictionary>
@@ -678,7 +680,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="office365.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\hetcx\\appdata\\local\\temp\\tmpoj7fej\\office365.png"></string>
+                  <string value="c:\\users\\hetcx\\appdata\\local\\temp\\tmpcvcchw\\office365.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="5576233865535285504eab4a1ed1dd22"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -705,7 +707,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="217"></int>
+                  <int value="223"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -719,7 +721,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="12_113_2.13"></unicode>
+                <unicode value="12_113_2.19"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="14">
                  <dictionary>
@@ -730,7 +732,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="Powtoon.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\hetcx\\appdata\\local\\temp\\tmpoj7fej\\Powtoon.jpg"></string>
+                  <string value="c:\\users\\hetcx\\appdata\\local\\temp\\tmpcvcchw\\Powtoon.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="451d801bf53a2e0091964cba2cb5209c"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -759,7 +761,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="14"></int>
+           <int value="20"></int>
            <string role="key" value="parentNode"></string>
            <reference key="3"></reference>
           </dictionary>
@@ -1023,6 +1025,12 @@
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;h2&gt;Conoce mi experiencia profesional navegando a través del siguiente carrusel.&lt;/h2&gt;
 &lt;div class=&quot;exe-fx exe-carousel&quot;&gt;
+&lt;h2&gt;Quality Assurance &amp;amp; Training Coordinator&lt;/h2&gt;
+&lt;h3&gt;XML Int.&lt;/h3&gt;
+&lt;p&gt;Marzo 2021 - Actual&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Principales funciones:&lt;/strong&gt; Responsible for systematizing, controlling, and ensuring the quality of XML processes and of determining how the job performance of employees is affecting the organization's progress toward its goals. Addressing any training skills gaps that are holding the business back.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contactos:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;XML Ltd&lt;/strong&gt; - Gina Reagan gina.r@xml-int.com&lt;/p&gt;
 &lt;h2&gt;Diseñador Instruccional&lt;/h2&gt;
 &lt;h3&gt;Freelance&lt;/h3&gt;
 &lt;p&gt;Febrero 2017 - Actualidad&lt;/p&gt;
@@ -3359,7 +3367,7 @@
   <string role="key" value="mxmlwidth"></string>
   <string value=""></string>
   <string role="key" value="release"></string>
-  <string value="2.5"></string>
+  <string value="2.6"></string>
   <string role="key" value="resources"></string>
   <dictionary>
    <string role="key" value="451d801bf53a2e0091964cba2cb5209c"></string>
